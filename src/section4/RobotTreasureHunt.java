@@ -51,7 +51,7 @@ public class RobotTreasureHunt implements KeyEventDispatcher{
 		System.out.println("X Location: " + robotXLocation);
 		System.out.println("Y Location: " + robotYLocation);
 		// 7. If robot is at same location as the little girl
-		if (sphero) {
+		if () {
 			
 		}
 		//      --make a pop-up tell the robot where to go next
